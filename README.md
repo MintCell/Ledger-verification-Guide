@@ -22,8 +22,7 @@ However, using the utility can be very challenging for some and Ledger has not p
 
    ![lvt5](lvt5.png)
 
-### 2. Download and save the Ledger Utility to your Python Installation Path
-https://raw.githubusercontent.com/LedgerHQ/blue-loader-python/master/ledgerblue/checkGenuine.py  
+### 2. [Download and save the Ledger Utility to your Python Installation Path](https://raw.githubusercontent.com/LedgerHQ/blue-loader-python/master/ledgerblue/checkGenuine.py)  
 
 ![lvt6](lvt6.png)
 ### 3. [Download and install Visual C++ 2015 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
